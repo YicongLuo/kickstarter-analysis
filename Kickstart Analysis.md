@@ -20,10 +20,10 @@ The most challenging thing is how to classify the Pivot table fields, I don't kn
 2. Don't hold your kickstart on Oct, which the failed cases reaches to the top (50).
 ### The Conclusion about the Outcomes based on Goals?
 The best successful goal range for you is $5,000 to $39,999, which is around 50%. You can get higher percentage (max to 70%), if you must decrease your budget to less than $5,000
-###The limitations of this Dataset
+### The limitations of this Dataset
 This Dataset is only for GB and US. Below the graph shows the kickstart, outcomes in GB and US is over 90% of totol. 
-/Resources/Outcomes_Vs_Countries.png
-###Other Tables that we can be Created are also valuable
+/ Resources/Outcomes_Vs_Countries.png
+### Other Tables that we can be Created are also valuable
 1. Outcome based on Countries - we can find which countries are easy to succeed.
 2. Outcome based on the range from Launched date to Deadline - we can find how long to close a kickstart is most reasonable to succeed.
 
