@@ -7,7 +7,7 @@ In this analysis, we will see Theater outcomes by different launch dates and out
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch]Resources/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 According to above graph, the number of successfull outcomes incresaes from Jan (56) and become to top in May(111) and June(100). Then, it drop rapidly until it is almost the same as the number of failed outcomes. The number of failed outcomes has been fluctuating throughout the year between 30s to 50s. The number of cancelled are almost lower than 5 every month. 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
