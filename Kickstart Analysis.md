@@ -15,7 +15,7 @@ Above the graph, the line of pecentage successful has over 70% (Top) at budget l
 ### Challenges and Difficulties Encountered
 The most challenging thing is how to classify the Pivot table fields, I don't know what and why I need to put in fliter, rows and columns. First, I follow the guide of the modules to get right answer. Then, I will compare results of different rows,colums and filter. For example, I change the column-month to year or quarter to find what is difference. The results are not as clear as monthly. Also, I exchange the column and row, and the line become 12 lines, which is hard to make analysis. After I did these tests, I am clear to know when we choose the filters, columns and rows, we must figure out the relationship of them and how to show it clearly.   
 ## Results
-###Two Conclusions of the Outcomes based on Launch Date
+### Two Conclusions of the Outcomes based on Launch Date
 1. May and June are best time to start your kickstart, beacause the number of successfull outcomes reaches top in May(111) and June(100).
 2. Don't hold your kickstart on Oct, which the failed cases reaches to the top (50).
 ### The Conclusion about the Outcomes based on Goals?
